@@ -1,0 +1,29 @@
+.home {
+  display: block;
+}
+
+.home__title {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 60px;
+
+  text-align: center;
+
+  color: #404040;
+}
+.home__text {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+
+  text-align: center;
+
+  color: #404040;
+}
+.home__btn {
+  padding: 19px 37px;
+}
