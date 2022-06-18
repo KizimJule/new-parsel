@@ -1,0 +1,56 @@
+.settings {
+    font-family: 'Roboto';
+    font-style: normal;
+
+    padding: 69px 15px 108px 15px;
+    background-color: #F7F7F7;
+}
+
+.settings__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 1.2;
+
+    text-align: center;
+
+    color: #404040;
+}
+
+
+.settings__img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+.container-sizes {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.settings__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.15x;
+}
+
+
+.btn__bottom {
+    display: block;
+    padding: 17px 92px 21px 92px;
+    margin: 0 auto;
+
+    font-weight: 700;
+        font-size: 14px;
+        line-height: 14px;
+        /* identical to box height, or 100% */
+    
+        text-align: center;
+        letter-spacing: 0.11px;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
