@@ -1,0 +1,66 @@
+.help-center-container {
+  padding: 0 208;
+}
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 50;
+  line-height: 1.2;
+}
+
+.help-center {
+  margin-bottom: 35;
+  text-align: center;
+}
+
+.help-center__text {
+  margin-bottom: 44;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.help-center__list--item {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.help-center__button {
+  margin-bottom: 94;
+}
+
+.button {
+  padding: 17 66 21 66;
+  border-radius: 0;
+  border: 0;
+  background-color: #2468ff;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 13;
+  line-height: 1.08;
+  text-transform: uppercase;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.help-center__list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.help-center__icon {
+  margin-right: 18px;
+  stroke: black;
+  fill: none;
+}
+.help-center__list--item {
+  display: flex;
+  align-items: center;
+}
